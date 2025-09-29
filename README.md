@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I’m **Raju**, a Computer Science student passionate about **AI, Machine Learning, and Full Stack Development**.  
+I’m **Dharun Raju**, a Computer Science student passionate about **AI, Machine Learning, and Full Stack Development**.  
 
 - 🔭 I’m currently working on **dual-class ID card detection** and **student proctoring platforms** using YOLO and MERN stack.  
 - 🌱 I’m currently learning **Mobile App Development** and **Agile Software Engineering**.  
 - 👯 I’m looking to collaborate on **AI-based projects for real-world applications**, especially in education and safety.  
 - 💬 Ask me about **YOLO object detection, MERN stack, React Native, Python, and SQL**.  
-- 📫 How to reach me: [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/raju2510/)  
+- 📫 How to reach me: [Email](mailto:dharunraju7@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dharun-raj-r-56313b267/)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I hold **2 Indian patents** and have completed **50 days of LeetCode problem solving in 2024**.
 
