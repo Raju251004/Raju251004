@@ -1,13 +1,13 @@
 ## Hi there 👋
-<h1 align="center">Preparing for Google SDE 🚀</h1>
+<h1 align="center">I am Dharun Raj R</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:dharunraju7@gmail.comimg src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin(https://www.linkedin.com/in/dharun-raj-r-56313b267/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://yourwebsite.xyz"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome"/></a>
 </p>
 
